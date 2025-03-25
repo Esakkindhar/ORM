@@ -41,7 +41,8 @@ class movieAdmin(admin.ModelAdmin):
 
 # OUTPUT
 
-![alt text](<ex02/Screenshot 2025-03-23 225527.png>)
+![WhatsApp Image 2025-03-25 at 10 09 02_d7271987](https://github.com/user-attachments/assets/5030edc2-d6e8-4d74-8a44-a94c602ec993)
+
 
 ## Name:Esakkindhar A
 ## Reg:212224040085
